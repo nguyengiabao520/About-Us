@@ -302,3 +302,16 @@ body{
 }
 
  */
+
+ .image-map{
+    margin-top: 200px;
+    background-image: url("https://www.w3schools.com/w3images/map.jpg");
+
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
